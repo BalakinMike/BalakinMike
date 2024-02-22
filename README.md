@@ -64,7 +64,7 @@ Hi there 👋
 </ul>
 <h3>Education:</h3>
 <ul>
-<li>2023 – Инди – курс по HTML и CSS. (Stepik) </li>
+<li>2023 – Инди – курс по HTML и CSS. (Stepik) <a href = "https://stepik.org/users/162593717/profile">Stepik - profile</li>
 <li>2023 – Профессиональная переподготовка «Python – разработка для начинающих» (Нетология 298 ч., ПП 10386).</li> 
 <li>2023 – Инди – курс программирования на Python. (Stepik) </li>
 <li>2023 – ООП на Python. (Stepik) </li>
